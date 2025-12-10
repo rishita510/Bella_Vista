@@ -395,3 +395,14 @@ body{
 .footer-section  a:hover{
     color:var(--primary-color);
 }
+.social-links{
+    display:flex;
+    gap:1rem;
+    justify-content:center;
+
+}
+.footer bottom{
+    font-size:0.9rem;
+    color:#ccc;
+    border-top: 2px solid #34495e;
+}
